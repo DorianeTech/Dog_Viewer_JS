@@ -1,5 +1,5 @@
 # Dog_Viewer_JS
-
+Pour la version TS : https://github.com/DorianeTech/Dog_Viewer_TS
 
 Le repo est constitué : 
 
