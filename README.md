@@ -1,5 +1,12 @@
 # Dog_Viewer_JS
 
+
+Le repo est constitué : 
+
+-D'un projet front (dossier front) utilisant React tournant sur le port 3000.
+
+-D'un projet back (dossier back) utilisant express tournant sur le port 3001.
+
 ## Installation
 
 Pour installer le projet vous pouvez à la racine lancer la commande
@@ -10,15 +17,6 @@ ou lancer dans chaque dossier la commande
 ```bash
 npm install
 ```
-
-## Le repo
-### Constitution
-Le repo est constitué : 
-
--D'un projet front (dossier front) utilisant React tournant sur le port 3000.
-
--D'un projet back (dossier back) utilisant express tournant sur le port 3001.
-
 
 ### Lancer le projet
 Pour chaque partie du projet il vous faudra utiliser la commande suivante dans leurs dossiers respectifs
